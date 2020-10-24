@@ -8,6 +8,8 @@ After the machine learning model is built and deployed, subsequent production da
 
 These labs are based on a solution template available in the Azure Gallery (https://gallery.azure.ai/Solution/Predictive-Maintenance-10).  The original predictive maintenance machine learning models are also in the gallery - https://gallery.azure.ai/Collection/Predictive-Maintenance-Template-3. 
 
+For a more in-depth look at the predictive maintenance ML models themselves, refer to the this workshop - https://github.com/tylerchessman/PredictiveMaintenance_ML
+
 #### Notes
 * This workshop is designed be instructor-led (over a ~1 day timespan); see the included PowerPoint for background material and a suggested flow.
 * The labs were developed a few years ago; the cloud is a fast-paced environment, and there are opportunities to consider alternative/enhanced technlogies (e.g. a different ML platform).  The PowerPoint point deck was recently updated (Oct. 2020) but may still reference older platform options.
